@@ -9,8 +9,3 @@ namespace ContactUsAPI.Controllers
         }
     }
 }
-//public class CustomerRepository : Repository<Customer>
-//{
-//    public CustomerRepository(SessionFactory sessionFactory) : base(sessionFactory)
-//    {
-//    }

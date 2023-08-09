@@ -1,0 +1,7 @@
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsAPI\obj\Debug\net6.0\ContactUsAPI.MvcApplicationPartsAssemblyInfo.cache
