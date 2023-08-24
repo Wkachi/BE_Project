@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ContactUsCore/1.0.0": {
+        "runtime": {
+          "ContactUsCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactUsCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

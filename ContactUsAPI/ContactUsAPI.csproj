@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ContactUsBEProject\ContactUsBEProject\ContactUsBEProject.csproj" />
+    <ProjectReference Include="..\ContactUsCore\ContactUsCore.csproj" />
+    <ProjectReference Include="..\ContactUsDb\ContactUsDb.csproj" />
   </ItemGroup>
 
 </Project>

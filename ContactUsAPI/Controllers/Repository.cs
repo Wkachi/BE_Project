@@ -1,4 +1,6 @@
-﻿namespace ContactUsAPI.Controllers
+﻿using ContactUsDb;
+
+namespace ContactUsAPI.Controllers
 {
     public class Repository<T>
     {

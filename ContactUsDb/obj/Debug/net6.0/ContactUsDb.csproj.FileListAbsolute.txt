@@ -1,0 +1,15 @@
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\bin\Debug\net6.0\ContactUsDb.deps.json
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\bin\Debug\net6.0\ContactUsDb.dll
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\bin\Debug\net6.0\ContactUsDb.pdb
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\bin\Debug\net6.0\ContactUsCore.dll
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\bin\Debug\net6.0\ContactUsCore.pdb
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.csproj.CoreCompileInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.csproj.CopyComplete
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.dll
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\refint\ContactUsDb.dll
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ContactUsDb.pdb
+C:\Users\Kachi\Desktop\Backend Dev\ContactUsAPI\ContactUsDb\obj\Debug\net6.0\ref\ContactUsDb.dll
